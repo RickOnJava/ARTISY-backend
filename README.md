@@ -52,7 +52,11 @@ CLOUDINARY_CLOUD_NAME=xxxx
 CLOUDINARY_API_KEY=xxxx
 CLOUDINARY_API_SECRET=xxxx
 FRONTEND_URL=http://localhost:5173
-🧪 API Endpoints Overview
+
+---
+
+##🧪 API Endpoints Overview
+
 🔐 Auth
 POST /api/auth/signup
 
@@ -80,7 +84,10 @@ POST /api/images/:id/like
 
 POST /api/images/:id/dislike
 
-🛠️ Run Locally
+---
+
+##🛠️ Run Locally
+
 1️⃣ Clone the repository
 git clone https://github.com/RickOnJava/ARTISY-backend.git
 cd artisy-backend
@@ -97,10 +104,15 @@ http://localhost:5000
 🌐 Frontend Repository
 👉 https://github.com/RickOnJava/ARTISY-frontend
 
+---
+
 📸 Screenshots
 UI includes authentication pages, image feed, profile pages, and interactive modals.
 
+---
+
 🧠 Key Highlights
+
 Clean REST API design
 
 Secure authentication & authorization
@@ -110,6 +122,8 @@ Optimized MongoDB queries
 Scalable architecture
 
 Production-ready structure
+
+---
 
 👨‍💻 Author
 RICK GHOSH
