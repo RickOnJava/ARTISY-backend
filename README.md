@@ -39,35 +39,6 @@ This repository contains the **backend API** built using **Node.js, Express, Mon
 
 ---
 
-## 📁 Project Structure
-
-├── .gitignore
-├── config
-│ ├── db.js
-│ └── cloudinary.js
-├── middleware
-│ ├── auth.middleware.js
-│ ├── upload.middleware.js
-│ └── error.middleware.js
-├── routes
-│ ├── auth.routes.js
-│ ├── user.routes.js
-│ ├── image.routes.js
-│ └── reaction.routes.js
-├── models
-│ ├── User.model.js
-│ └── Image.model.js
-├── controllers
-│ ├── auth.controller.js
-│ ├── user.controller.js
-│ ├── image.controller.js
-│ └── reaction.controller.js
-├── server.js
-└── package.json
-
-
----
-
 ## ⚙️ Environment Variables
 
 Create a `.env` file in the root:
