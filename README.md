@@ -90,7 +90,7 @@ POST /api/images/:id/dislike
 
 1️⃣ Clone the repository
 git clone https://github.com/RickOnJava/ARTISY-backend.git
-cd artisy-backend
+cd ARTISY-backend
 
 2️⃣ Install dependencies
 npm install
